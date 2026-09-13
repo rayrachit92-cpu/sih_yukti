@@ -1,0 +1,21 @@
+ulpin_2d,feature_name,category,owner_name,land_owner,notes
+MH250704532161,apartment1,apartment,"Owner_APT1 (whole building, single owner)",,"5 floors, 3 single rooms/floor, no per-room subdivision of ownership"
+MH250704538408,block1,independent_house,Owner_block1,,
+MH250704533969,block2,independent_house,Owner_block2,,
+MH250704533895,block3,independent_house,Owner_block3,,
+MH250704536455,block4,independent_house,Owner_block4,,
+MH250704532188,block5,independent_house,Owner_block5,,
+MH250704532252,block6,independent_house,Owner_block6,,
+MH250704539238,block7,independent_house,Owner_block7,,
+MH250704533516,block8,independent_house,Owner_block8,,
+MH250704533942,block9,independent_house,Owner_block9,,
+MH250704537128,block10,independent_house,Owner_block10,,
+MH250704534361,block11,independent_house,Owner_block11,,
+MH250704538042,block12,independent_house,Owner_block12,,
+MH250704533200,block13,independent_house,Owner_block13,,
+MH250704532447,apartment2,apartment,Multiple owners - see floor_plan_apartments.csv,Owner_APT2_Land,"Ground floor = 4 shops; floors 1-4 = 4x 2BHK flats/floor, each individually owned. Underlying land parcel owned separately from flats."
+MH250704536789,apartment/shop+underground,shop_complex_with_basement,Two owners (underground vs above-ground) - see floor_plan_apartments.csv,,"Underground level = shops (single owner). Above-ground = one undivided 5-floor shop (different single owner, no BHK/unit subdivision)."
+MH250704532263,block14,independent_house,Owner_block14,,
+MH250704534668,block15,independent_house,Owner_block15,,
+MH250704532336,emptyspace1,vacant_land,Owner_emptyspace1,,
+MH250704532515,emptyspace2,vacant_land,Owner_emptyspace2,,

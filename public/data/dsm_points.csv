@@ -1,0 +1,81 @@
+point_id,associated_feature,sample_point,lat,lon,floors,building_height_m,elevation_dem_m,elevation_dsm_m,notes
+DSM001,apartment1,1,18.67103764,73.89061365,4,12.5,559.54,572.04,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM002,apartment1,2,18.67102595,73.89068859,4,12.5,559.92,572.42,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM003,apartment1,3,18.67108217,73.89067117,4,12.5,559.57,572.07,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM004,apartment1,4,18.67109967,73.89059068,4,12.5,559.68,572.18,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM005,block1,1,18.67162942,73.89090329,1,3.5,558.74,562.24,
+DSM006,block1,2,18.67165918,73.8907729,1,3.5,558.6,562.1,
+DSM007,block1,3,18.67154521,73.89080315,1,3.5,558.73,562.23,
+DSM008,block1,4,18.67151791,73.89093748,1,3.5,559.27,562.77,
+DSM009,block2,1,18.67144027,73.89082396,1,3.5,559.31,562.81,
+DSM010,block2,2,18.67144025,73.89089741,1,3.5,559.37,562.87,
+DSM011,block2,3,18.67150558,73.89088405,1,3.5,558.96,562.46,
+DSM012,block2,4,18.67149654,73.89080989,1,3.5,559.23,562.73,
+DSM013,block3,1,18.67136003,73.89085695,1,3.5,559.02,562.52,
+DSM014,block3,2,18.6714355,73.8908338,1,3.5,559.14,562.64,
+DSM015,block3,3,18.67140795,73.8907582,1,3.5,558.96,562.46,
+DSM016,block3,4,18.67132969,73.89077824,1,3.5,559.43,562.93,
+DSM017,block4,1,18.67120378,73.89073043,1,3.5,559.7,563.2,
+DSM018,block4,2,18.67124966,73.89081533,1,3.5,559.28,562.78,
+DSM019,block4,3,18.67132625,73.89078522,1,3.5,559.5,563.0,
+DSM020,block4,4,18.67128481,73.89070045,1,3.5,559.12,562.62,
+DSM021,block5,1,18.67128207,73.890646,1,3.5,559.4,562.9,
+DSM022,block5,2,18.67130953,73.8907114,1,3.5,559.22,562.72,
+DSM023,block5,3,18.67137619,73.89068894,1,3.5,558.89,562.39,
+DSM024,block5,4,18.67134538,73.8906253,1,3.5,559.16,562.66,
+DSM025,block6,1,18.67094183,73.89058937,3,9.5,559.97,569.47,Left-side (lower-longitude) sample points bumped +1 floor per user's field update
+DSM026,block6,2,18.67095924,73.89066214,2,6.5,560.07,566.57,Left-side (lower-longitude) sample points bumped +1 floor per user's field update
+DSM027,block6,3,18.67103068,73.89062578,2,6.5,559.73,566.23,Left-side (lower-longitude) sample points bumped +1 floor per user's field update
+DSM028,block6,4,18.67101267,73.89055653,3,9.5,559.94,569.44,Left-side (lower-longitude) sample points bumped +1 floor per user's field update
+DSM029,block7,1,18.67087878,73.89055357,2,6.5,559.97,566.47,
+DSM030,block7,2,18.67087877,73.89062713,2,6.5,560.22,566.72,
+DSM031,block7,3,18.67093266,73.89060879,2,6.5,559.62,566.12,
+DSM032,block7,4,18.67093656,73.890535,2,6.5,559.7,566.2,
+DSM033,block8,1,18.67079096,73.89072144,1,3.5,560.02,563.52,
+DSM034,block8,2,18.67089171,73.89077454,1,3.5,560.41,563.91,
+DSM035,block8,3,18.67095707,73.8907454,1,3.5,560.13,563.63,
+DSM036,block8,4,18.67085742,73.89069646,1,3.5,559.87,563.37,
+DSM037,block9,1,18.6709435,73.89080629,1,3.5,560.04,563.54,
+DSM038,block9,2,18.67091766,73.89092481,1,3.5,560.22,563.72,
+DSM039,block9,3,18.67099408,73.89088424,1,3.5,560.08,563.58,
+DSM040,block9,4,18.67101283,73.89077659,1,3.5,559.92,563.42,
+DSM041,block10,1,18.67101888,73.8909818,1,3.5,559.79,563.29,
+DSM042,block10,2,18.67105792,73.89088277,1,3.5,559.67,563.17,
+DSM043,block10,3,18.67104342,73.89079464,1,3.5,559.7,563.2,
+DSM044,block10,4,18.67099606,73.89088885,1,3.5,559.9,563.4,
+DSM045,block11,1,18.67108183,73.89089437,1,3.5,559.61,563.11,
+DSM046,block11,2,18.6711101,73.89088573,1,3.5,559.78,563.28,
+DSM047,block11,3,18.67109887,73.89084548,1,3.5,559.93,563.43,
+DSM048,block11,4,18.67106802,73.89085829,1,3.5,559.78,563.28,
+DSM049,block12,1,18.6711338,73.89091934,1,3.5,559.53,563.03,
+DSM050,block12,2,18.67115736,73.89088119,1,3.5,559.82,563.32,
+DSM051,block12,3,18.67112804,73.89084761,1,3.5,559.63,563.13,
+DSM052,block12,4,18.67111257,73.89088745,1,3.5,559.48,562.98,
+DSM053,block13,1,18.67119703,73.8908911,1,3.5,559.58,563.08,
+DSM054,block13,2,18.67114202,73.89095607,1,3.5,559.43,562.93,
+DSM055,block13,3,18.67117781,73.89103887,1,3.5,559.71,563.21,
+DSM056,block13,4,18.67123343,73.89097085,1,3.5,559.3,562.8,
+DSM057,apartment2,1,18.67133259,73.8911639,4,12.5,559.31,571.81,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM058,apartment2,2,18.67149807,73.89116838,4,12.5,558.53,571.03,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM059,apartment2,3,18.67143673,73.89100829,4,12.5,559.32,571.82,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM060,apartment2,4,18.67127603,73.89100204,4,12.5,559.32,571.82,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM061,apartment/shop+underground,1,18.6713704,73.89118997,4,12.5,559.01,571.51,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM062,apartment/shop+underground,2,18.67121541,73.89114523,4,12.5,559.57,572.07,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM063,apartment/shop+underground,3,18.67126803,73.89128644,4,12.5,559.1,571.6,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM064,apartment/shop+underground,4,18.67141506,73.89132638,4,12.5,558.52,571.02,"PLACEHOLDER: no floor count in source data, assumed for demo - replace with real floor-plan count"
+DSM065,block14,1,18.67109346,73.89096011,3,9.5,560.02,569.52,
+DSM066,block14,2,18.67103474,73.8911155,3,9.5,560.0,569.5,
+DSM067,block14,3,18.67107208,73.89116619,3,9.5,559.42,568.92,
+DSM068,block14,4,18.67112195,73.89100773,3,9.5,559.53,569.03,
+DSM069,block15,1,18.67106449,73.89089713,2,6.5,560.06,566.56,
+DSM070,block15,2,18.67102441,73.89099432,2,6.5,559.86,566.36,
+DSM071,block15,3,18.67105217,73.89106256,2,6.5,559.55,566.05,
+DSM072,block15,4,18.67108843,73.89096388,2,6.5,559.69,566.19,
+DSM073,emptyspace1,1,18.6711586,73.89074838,0,0.0,559.59,559.59,"Vacant plot - no structure, DSM = DEM"
+DSM074,emptyspace1,2,18.67126078,73.89066907,0,0.0,559.64,559.64,"Vacant plot - no structure, DSM = DEM"
+DSM075,emptyspace1,3,18.67120258,73.89054122,0,0.0,559.06,559.06,"Vacant plot - no structure, DSM = DEM"
+DSM076,emptyspace1,4,18.67110647,73.89061204,0,0.0,559.71,559.71,"Vacant plot - no structure, DSM = DEM"
+DSM077,emptyspace2,1,18.67122881,73.89098841,0,0.0,559.47,559.47,"Vacant plot - no structure, DSM = DEM"
+DSM078,emptyspace2,2,18.67116983,73.89114685,0,0.0,559.14,559.14,"Vacant plot - no structure, DSM = DEM"
+DSM079,emptyspace2,3,18.67121318,73.89112436,0,0.0,559.19,559.19,"Vacant plot - no structure, DSM = DEM"
+DSM080,emptyspace2,4,18.67128052,73.89096928,0,0.0,559.68,559.68,"Vacant plot - no structure, DSM = DEM"
