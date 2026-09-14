@@ -1,0 +1,42 @@
+building_name,floor_label,floor_number,unit_id,unit_type,bhk,owner_name,notes
+apartment1,Floor 1,1,APT1-F1-R1,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 1,1,APT1-F1-R2,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 1,1,APT1-F1-R3,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 2,2,APT1-F2-R1,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 2,2,APT1-F2-R2,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 2,2,APT1-F2-R3,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 3,3,APT1-F3-R1,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 3,3,APT1-F3-R2,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 3,3,APT1-F3-R3,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 4,4,APT1-F4-R1,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 4,4,APT1-F4-R2,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 4,4,APT1-F4-R3,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 5,5,APT1-F5-R1,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 5,5,APT1-F5-R2,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment1,Floor 5,5,APT1-F5-R3,single_room,N/A,"Owner_APT1 (whole building, single owner)",
+apartment2,Ground floor,0,APT2-G-SHOP1,shop,N/A,Owner_APT2_Shop1,
+apartment2,Ground floor,0,APT2-G-SHOP2,shop,N/A,Owner_APT2_Shop2,
+apartment2,Ground floor,0,APT2-G-SHOP3,shop,N/A,Owner_APT2_Shop3,
+apartment2,Ground floor,0,APT2-G-SHOP4,shop,N/A,Owner_APT2_Shop4,
+apartment2,Floor 1,1,APT2-F1-U1,flat,2BHK,Owner_APT2_F1U1,
+apartment2,Floor 1,1,APT2-F1-U2,flat,2BHK,Owner_APT2_F1U2,
+apartment2,Floor 1,1,APT2-F1-U3,flat,2BHK,Owner_APT2_F1U3,
+apartment2,Floor 1,1,APT2-F1-U4,flat,2BHK,Owner_APT2_F1U4,
+apartment2,Floor 2,2,APT2-F2-U1,flat,2BHK,Owner_APT2_F2U1,
+apartment2,Floor 2,2,APT2-F2-U2,flat,2BHK,Owner_APT2_F2U2,
+apartment2,Floor 2,2,APT2-F2-U3,flat,2BHK,Owner_APT2_F2U3,
+apartment2,Floor 2,2,APT2-F2-U4,flat,2BHK,Owner_APT2_F2U4,
+apartment2,Floor 3,3,APT2-F3-U1,flat,2BHK,Owner_APT2_F3U1,
+apartment2,Floor 3,3,APT2-F3-U2,flat,2BHK,Owner_APT2_F3U2,
+apartment2,Floor 3,3,APT2-F3-U3,flat,2BHK,Owner_APT2_F3U3,
+apartment2,Floor 3,3,APT2-F3-U4,flat,2BHK,Owner_APT2_F3U4,
+apartment2,Floor 4,4,APT2-F4-U1,flat,2BHK,Owner_APT2_F4U1,
+apartment2,Floor 4,4,APT2-F4-U2,flat,2BHK,Owner_APT2_F4U2,
+apartment2,Floor 4,4,APT2-F4-U3,flat,2BHK,Owner_APT2_F4U3,
+apartment2,Floor 4,4,APT2-F4-U4,flat,2BHK,Owner_APT2_F4U4,
+apartment/shop+underground,Underground,-1,UG-SHOP-BLOCK,shop,N/A,Owner_UG_Shops,"Whole underground level, not subdivided into individual owners"
+apartment/shop+underground,Floor 1,1,ABOVE-BIGSHOP,big_shop_multi_floor,N/A,Owner_AboveGround_Shop,"One shop spanning all 5 floors, no BHK/unit subdivision, single owner distinct from underground owner"
+apartment/shop+underground,Floor 2,2,ABOVE-BIGSHOP,big_shop_multi_floor,N/A,Owner_AboveGround_Shop,"One shop spanning all 5 floors, no BHK/unit subdivision, single owner distinct from underground owner"
+apartment/shop+underground,Floor 3,3,ABOVE-BIGSHOP,big_shop_multi_floor,N/A,Owner_AboveGround_Shop,"One shop spanning all 5 floors, no BHK/unit subdivision, single owner distinct from underground owner"
+apartment/shop+underground,Floor 4,4,ABOVE-BIGSHOP,big_shop_multi_floor,N/A,Owner_AboveGround_Shop,"One shop spanning all 5 floors, no BHK/unit subdivision, single owner distinct from underground owner"
+apartment/shop+underground,Floor 5,5,ABOVE-BIGSHOP,big_shop_multi_floor,N/A,Owner_AboveGround_Shop,"One shop spanning all 5 floors, no BHK/unit subdivision, single owner distinct from underground owner"
