@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2d ulpin final.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>2d ulpin</name>
+		<open>1</open>
+		<Placemark>
+			<name>apartment1</name>
+			<description>use floor plan</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89057196971277,18.67105747518837,0 73.89067735250644,18.671007313266,0 73.89071315823728,18.67106667510083,0 73.89059533121382,18.6711101588053,0 73.89057196971277,18.67105747518837,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block1</name>
+			<description>floor=1</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89097641548567,18.67159084314972,0 73.89078759835414,18.67169044530238,0 73.8907348251544,18.671578232225,0 73.89092151064067,18.67148801281472,0 73.89097641548567,18.67159084314972,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block2</name>
+			<description>floor1</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89078045051654,18.6714592821037,0 73.89088400412162,18.67141403532096,0 73.89092168876269,18.67148771373958,0 73.89083531542155,18.67152872678744,0 73.89078045051654,18.6714592821037,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block3</name>
+			<description>floor1</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89083149534751,18.67130879917325,0 73.89088366563747,18.67141378529766,0 73.89077972388546,18.67145904330818,0 73.8907327533374,18.67134754017361,0 73.89083149534751,18.67130879917325,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block4</name>
+			<description>floor1</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.8906719757193,18.67122821369362,0 73.89077752012811,18.67118410348747,0 73.8908460824383,18.67130298821569,0 73.89073160703209,18.67134673619445,0 73.8906719757193,18.67122821369362,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block5</name>
+			<description>floor1</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89060142063579,18.6713025377814,0 73.89068763881336,18.671262947257,0 73.89073310906531,18.67135209643304,0 73.89065330965923,18.67139563003013,0 73.89060142063579,18.6713025377814,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block6</name>
+			<description>floor2</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89053978619671,18.67096187941067,0 73.89064821245445,18.67091804183912,0 73.89067790133754,18.67100589867536,0 73.89057104135308,18.67105669681639,0 73.89053978619671,18.67096187941067,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block7</name>
+			<description>floor2</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89051178673287,18.67089721886257,0 73.89060937176954,18.67085414768388,0 73.89065270959884,18.67091421477539,0 73.89054780724008,18.6709582684347,0 73.89051178673287,18.67089721886257,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block8</name>
+			<description>floor1</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.8906729398055,18.67080556493096,0 73.89071810493681,18.67078462837036,0 73.89080081059815,18.67094154758403,0 73.89074208773681,18.6709579941236,0 73.8906729398055,18.67080556493096,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block9</name>
+			<description>fllor1</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89074590405293,18.67095866284243,0 73.89092332363876,18.67091411308755,0 73.89094705263983,18.6709706533739,0 73.89078659928904,18.6710305022954,0 73.89074590405293,18.67095866284243,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block10</name>
+			<description>floor1</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89094319791401,18.67097540183394,0 73.89098655595646,18.67102424732279,0 73.89081136525066,18.67108108931697,0 73.89079025577762,18.67103354632955,0 73.89094319791401,18.67097540183394,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block11</name>
+			<description>floor1</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89088218822098,18.6710596193432,0 73.89090793086571,18.6711065456136,0 73.89085377892965,18.6711152037151,0 73.89083412989375,18.67107651837618,0 73.89088218822098,18.6710596193432,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block12</name>
+			<description>floor1</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89091369198489,18.67110770937046,0 73.89092165233336,18.6711444768051,0 73.8908676207167,18.67116168212596,0 73.8908432820219,18.67112076043509,0 73.89091369198489,18.67110770937046,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block13</name>
+			<description>floor1</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89091447504434,18.67125136847619,0 73.89087682506884,18.67116385273478,0 73.891014942624,18.67112579680672,0 73.89105250266742,18.67120744983031,0 73.89091447504434,18.67125136847619,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>apartment2</name>
+			<description>use floor plan</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89110819364747,18.67123213987404,0 73.89123817053924,18.67146652491543,0 73.89107075178543,18.67154220782934,0 73.8909306120462,18.6713055660928,0 73.89110819364747,18.67123213987404,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>apartment/shop+underground</name>
+			<description>use floor plan</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89123725132556,18.67145664693402,0 73.89111246115397,18.67122900874874,0 73.89123062669069,18.6711799755488,0 73.89136747632625,18.67139588492409,0 73.89123725132556,18.67145664693402,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block14</name>
+			<description>floor3</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89092850317185,18.67114688360575,0 73.89091894747901,18.67110901115613,0 73.89118178986233,18.67100969704714,0 73.89120440073216,18.67106004977165,0 73.89092850317185,18.67114688360575,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>block15</name>
+			<description>floor2</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89091454524359,18.67110656348698,0 73.89089107367985,18.67106698585701,0 73.89104275513037,18.6710044412799,0 73.89106351702677,18.67105181540567,0 73.89091454524359,18.67110656348698,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>road1</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					73.89063797207723,18.67082153839996,0 73.89101850531112,18.67157206656533,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>path2</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					73.8905999564209,18.67186184005072,0 73.89147715642292,18.67145535864867,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>emptyspace1</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89070099739322,18.67107815896292,0 73.89076137679395,18.67118067322525,0 73.89065335154638,18.67122625244006,0 73.89067413487902,18.67125835064424,0 73.89059845953015,18.67129463528701,0 73.89050302742764,18.67114116053697,0 73.89070099739322,18.67107815896292,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>emptyspace2</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.89090918398897,18.67125829548071,0 73.89119516348396,18.67115184169071,0 73.89120640510127,18.67117755073934,0 73.89093284846771,18.67129634554768,0 73.89090918398897,18.67125829548071,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1327"></atom:link>
+	</Folder>
+</Document>
+</kml>

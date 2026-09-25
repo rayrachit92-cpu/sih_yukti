@@ -1,0 +1,15 @@
+point_id,lat,lon,elevation_dem_m,elevation_dsm_m,notes
+RES001,18.67086003,73.89067837,560.35,560.35,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES002,18.67086003,73.8909219,559.99,559.99,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES003,18.67086003,73.89116544,559.85,559.85,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES004,18.67086003,73.89140897,559.45,559.45,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES005,18.67112934,73.8909219,559.43,559.43,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES006,18.67112934,73.89116544,559.55,559.55,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES007,18.67112934,73.89140897,559.11,559.11,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES008,18.67139864,73.89067837,558.85,558.85,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES009,18.67139864,73.8909219,559.5,559.5,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES010,18.67139864,73.89140897,558.32,558.32,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES011,18.67166794,73.89067837,558.43,558.43,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES012,18.67166794,73.8909219,558.57,558.57,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES013,18.67166794,73.89116544,558.67,558.67,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
+RES014,18.67166794,73.89140897,558.29,558.29,Unassigned ground point - not tied to any existing building. Use as reference elevation when a user manually draws a new polygon nearby.
